@@ -1,0 +1,100 @@
+OrderID,,product_id,product_id,product_id,product_id
+1,,PROD-0001,Product 1,9832.0,14.0
+2,,PROD-0002,Product 2,5611.0,5.0
+3,Ayush,PROD-0003,Product 3,1316.0,12.0
+4,Alice,PROD-0004,Product 4,2647.0,20.0
+5,Bob,PROD-0005,Product 5,7112.0,3.0
+6,Bryan,PROD-0006,Product 6,7052.0,11.0
+7,David,PROD-0007,NaN,2171.0,18.0
+8,Eve,PROD-0008,Product 8,1445.0,6.0
+9,Frank,PROD-0009,Product 9,NaN,7.0
+10,Beast,PROD-0010,Product 10,3993.0,NaN
+11,Hannah,PROD-0011,Product 11,3512.0,9.0
+12,Ivy,PROD-0012,Product 12,6086.0,2.0
+13,Ivy,PROD-0013,NaN,1883.0,15.0
+14,Ivy,PROD-0014,Product 14,NaN,8.0
+15,Jack,PROD-0015,Product 15,7341.0,19.0
+16,Jack,PROD-0016,Product 16,6408.0,10.0
+17,Jack,PROD-0017,Product 17,8531.0,NaN
+18,Carlsen,PROD-0018,Product 18,1181.0,1.0
+19,Carlsen,PROD-0019,Product 19,4767.0,4.0
+20,Carlsen,PROD-0020,NaN,2806.0,
+21,Carlsen,PROD-0021,NaN,6598.0,4.0
+22,Carlsen,PROD-0022,Product 22,4284.0,11.0
+23,Carlsen,PROD-0023,NaN,6469.0,3.0
+24,Carlsen,PROD-0024,Product 24,4117.0,8.0
+25,Elena,PROD-0025,NaN,9443.0,5.0
+26,Elena,…,…,…,…
+27,Elena,PROD-0097,Product 97,NaN,4.0
+28,Elena,PROD-0098,Product 98,5545.0,18.0
+29,Elena,PROD-0099,Product 99,9791.0,4.0
+30,Elena,PROD-0100,Product 100,184.0,8.0
+31,Elena,PROD-0021,NaN,6598.0,4.0
+32,Elena,PROD-0022,Product 22,4284.0,11.0
+33,Rohan,PROD-0023,NaN,6469.0,3.0
+34,Rohan,PROD-0024,Product 24,4117.0,8.0
+35,Rohan,PROD-0025,NaN,9443.0,5.0
+36,Rohan,…,…,…,…
+37,Rohan,PROD-0097,Product 97,NaN,4.0
+38,Rohan,PROD-0098,Product 98,5545.0,18.0
+39,Rock,PROD-0099,Product 99,9791.0,4.0
+40,Rock,PROD-0100,Product 100,184.0,8.0
+41,Rock,PROD-0021,NaN,6598.0,4.0
+42,Rock,PROD-0022,Product 22,4284.0,11.0
+43,Rock,PROD-0023,NaN,6469.0,3.0
+44,Eve,PROD-0024,Product 24,4117.0,8.0
+45,Eve,PROD-0025,NaN,9443.0,5.0
+46,Eve,…,…,…,…
+47,Eve,PROD-0097,Product 97,NaN,4.0
+48,Eve,PROD-0098,Product 98,5545.0,18.0
+49,Ryan,PROD-0099,Product 99,9791.0,4.0
+50,Ryan,PROD-0100,Product 100,184.0,8.0
+51,Ryan,PROD-0021,NaN,6598.0,4.0
+52,Ryan,PROD-0022,Product 22,4284.0,11.0
+53,Henry,PROD-0023,NaN,6469.0,3.0
+54,Henry,PROD-0024,Product 24,4117.0,8.0
+55,Henry,PROD-0025,NaN,9443.0,5.0
+56,Henry,…,…,…,…
+57,Henry,PROD-0097,Product 97,NaN,4.0
+58,Peter,PROD-0098,Product 98,5545.0,18.0
+59,Peter,PROD-0099,Product 99,9791.0,4.0
+60,Peter,PROD-0100,Product 100,184.0,8.0
+61,Peter,PROD-0021,NaN,6598.0,4.0
+62,Peter,PROD-0022,Product 22,4284.0,11.0
+63,Peter,PROD-0023,NaN,6469.0,3.0
+64,Peter,PROD-0024,Product 24,4117.0,8.0
+65,Peter,PROD-0025,NaN,9443.0,5.0
+66,Tony Stark,…,…,…,…
+67,Tony Stark,PROD-0097,Product 97,NaN,4.0
+68,Tony Stark,PROD-0098,Product 98,5545.0,18.0
+69,Tony Stark,PROD-0099,Product 99,9791.0,4.0
+70,Tony Stark,PROD-0100,Product 100,184.0,8.0
+71,David,PROD-0021,NaN,6598.0,4.0
+72,David,PROD-0022,Product 22,4284.0,11.0
+73,David,PROD-0023,NaN,6469.0,3.0
+74,David,PROD-0024,Product 24,4117.0,8.0
+75,David,PROD-0025,NaN,9443.0,5.0
+76,Mixy,…,…,…,…
+77,Mixy,PROD-0097,Product 97,NaN,4.0
+78,Mixy,PROD-0098,Product 98,5545.0,18.0
+79,Mixy,PROD-0099,Product 99,9791.0,4.0
+80,Mixy,PROD-0100,Product 100,184.0,8.0
+81,Mixy,PROD-0021,NaN,6598.0,4.0
+82,Mixy,PROD-0022,Product 22,4284.0,11.0
+83,Arien,PROD-0023,NaN,6469.0,3.0
+84,Arien,PROD-0024,Product 24,4117.0,8.0
+85,Arien,PROD-0025,NaN,9443.0,5.0
+86,Arien,…,…,…,…
+87,Arien,PROD-0097,Product 97,NaN,4.0
+88,Arien,PROD-0098,Product 98,5545.0,18.0
+89,Arien,PROD-0099,Product 99,9791.0,4.0
+90,Rottweiler,PROD-0100,Product 100,184.0,8.0
+91,Rottweiler,PROD-0021,NaN,6598.0,4.0
+92,Rottweiler,PROD-0022,Product 22,4284.0,11.0
+93,Rottweiler,PROD-0023,NaN,6469.0,3.0
+94,Rottweiler,PROD-0024,Product 24,4117.0,8.0
+95,Rottweiler,PROD-0025,NaN,9443.0,5.0
+96,Mario,…,…,…,…
+97,Mario,PROD-0097,Product 97,NaN,4.0
+98,Mario,PROD-0098,Product 98,5545.0,18.0
+100,Mario,PROD-0099,Product 99,9791.0,4.0
